@@ -20,7 +20,7 @@ me.say_hi()
 ```
 
 
-- 🌱 I’m currently learning:  **C#, Backend dev, nest js, SQL ,DSA**
+- 🌱 I’m currently learning:  **C#, Backend dev, SQL ,DSA**, Django, React
 
 - 👨‍💻 My most recent project: [https://node-app-notes.onrender.com/](https://node-app-notes.onrender.com/)
 
