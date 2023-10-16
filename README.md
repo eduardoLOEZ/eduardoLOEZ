@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Eduardo Loeza</h1>
 <h3 align="center">Estudiante de ingeniería en software 💻</h3>
 
+
+```python
+
+class SoftwareEngineer:
+  def __init__(self):
+      self.name = "Eduardo Loeza"
+      self.role = "Software Engineer"
+      self.language_spoken = ["Spanish", "English"]
+
+  def say_hi(self):
+      print("Bienvenido a mi perfil de github 👋")
+me = SoftwareEngineer()
+me.say_hi()
+
+```
+
+
 - 🌱 I’m currently learning **C#, Backend dev,AWS,DSA**
 
 - 👨‍💻 My most recent project: [https://node-app-notes.onrender.com/](https://node-app-notes.onrender.com/)
