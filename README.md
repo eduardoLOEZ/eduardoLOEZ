@@ -18,7 +18,7 @@ me.say_hi()
 ```
 
 
-- 🌱 I’m currently learning Nestjs, Backend dev,AWS,DSA**
+- 🌱 I’m currently learning Nestjs, Backend dev ,AWS 
 
 - 👨‍💻 My most recent project: [https://node-app-notes.onrender.com/](https://node-app-notes.onrender.com/)
 
