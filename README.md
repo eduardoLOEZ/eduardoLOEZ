@@ -21,6 +21,10 @@ me.say_hi()
 - 🌱 I’m currently learning Nestjs, Backend dev ,AWS 
 
 - 👨‍💻 My most recent project: [https://node-app-notes.onrender.com/](https://node-app-notes.onrender.com/)
+- [https://quiz-unid.vercel.app/](https://quiz-unid.vercel.app/)
+- [https://candid-kangaroo-f86a59.netlify.app/](https://candid-kangaroo-f86a59.netlify.app/)
+
+  
 
 - 📝 I regularly write articles on [https://spectacular-moonbeam-7d2428.netlify.app/](https://spectacular-moonbeam-7d2428.netlify.app/)
 
