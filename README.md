@@ -26,7 +26,7 @@ me.say_hi()
 
   
 
-- 📝 I regularly write articles on [https://spectacular-moonbeam-7d2428.netlify.app/](https://spectacular-moonbeam-7d2428.netlify.app/)
+- 📝 I regularly write articles on [https://eduardloezablog.vercel.app/](https://eduardloezablog.vercel.app/)
 
 - 📫 How to reach me **educe_za@outlook.com**
 
