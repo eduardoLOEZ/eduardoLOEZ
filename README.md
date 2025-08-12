@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Loeza</h1>
-<h3 align="center">Software Engineer 💻</h3>
+<h3 align="center">Software Engineer 💻 @ Amazon</h3>
 
 
 ```python
@@ -19,8 +19,9 @@ me.say_hi()
 
 
 - 👨‍💻 My most recent project: [https://pos-frontend-pearl.vercel.app/](https://pos-frontend-pearl.vercel.app/)
-- [https://quiz-unid.vercel.app/](https://quiz-unid.vercel.app/)
-- [https://candid-kangaroo-f86a59.netlify.app/](https://candid-kangaroo-f86a59.netlify.app/)
+- Other Projects:
+  -  [https://quiz-unid.vercel.app/](https://quiz-unid.vercel.app/)
+  - [https://candid-kangaroo-f86a59.netlify.app/](https://candid-kangaroo-f86a59.netlify.app/)
 
   
 
