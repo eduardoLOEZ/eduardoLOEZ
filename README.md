@@ -11,7 +11,7 @@ class SoftwareEngineer:
       self.language_spoken = ["Spanish", "English"]
 
   def say_hi(self):
-      print("Bienvenido a mi perfil de github 👋")
+      print("Welcome to my GitHub profile 👋")
 me = SoftwareEngineer()
 me.say_hi()
 
@@ -19,7 +19,6 @@ me.say_hi()
 
 
 - 👨‍💻 My most recent project: [https://pos-frontend-pearl.vercel.app/](https://pos-frontend-pearl.vercel.app/) & [https://pos-landing-page-self.vercel.app/](https://pos-landing-page-self.vercel.app/)
-- 
 - Other Projects:
   -  [https://quiz-unid.vercel.app/](https://quiz-unid.vercel.app/)
   - [https://candid-kangaroo-f86a59.netlify.app/](https://candid-kangaroo-f86a59.netlify.app/)
